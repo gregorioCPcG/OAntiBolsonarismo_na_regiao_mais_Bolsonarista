@@ -1,4 +1,7 @@
 # OAntiBolsonarismo_na_regiao_mais_Bolsonarista
+
+
+
 A ideia é estar estudando os determinantes da atitude política antibolsonarista em uma região de forte votação antibolsonarista
 
 Para isso pegaremos dados eleitorais e demográficos de 28 cidades da região do Alto Vale do Itajaí altamente votante em Bolsonar.
@@ -11,7 +14,7 @@ Nossa variável a ser explicada (chamada de dependente) é a atitude não bolson
 
 Todas as outras variáveis explicativas (dados demográficos e eleitorais) serão catalogadas em 1 e 0 (sendo q 1 repersenta maior propensão e zero o oposto, por exemplo se for 1 em % ensino superior, significa que a cidade tem % de formados em ensino superiro acima da mediana da região). As variáveis demográficas utilizadas serão % de formados em curso superiro, população da cidade, % área rural. As variáveis políticas testadas serão % votação em Lula 2006 e  % ciro gomes2018(terceiro colocado)
 
-rodaremos alguns modelos e analisaremos todos em uma arquivo rmarkdown
+rodaremos alguns modelos e analisaremos todos em uma arquivo rmarkdown- aqui nessa pasta(em PDF também)
 
 teste 1 - Um cenário será a testado com as variáveis demográficas explicando a dependente
 
@@ -27,3 +30,10 @@ A ideia de dicotomizar tudo é retirada do clássico trabalho de  Mark Franklin,
 Henry Valen et al., Electoral Change: Responses to Evolving Social and Attitudinal Structures in Western 
 Countries (Cambridge: Cambridge University Press, 1992
 
+O script da manipulação dos dados constam nesse link ->
+
+A base original consta no github- antes da recodificação nesse link->
+
+A base manipulada com todas as variáveis dicotomizadas consta nesse link ->
+
+Os resultados e análises constam nesse endereço -> 
