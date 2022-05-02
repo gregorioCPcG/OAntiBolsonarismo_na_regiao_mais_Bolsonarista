@@ -1,6 +1,6 @@
 # OAntiBolsonarismo_na_regiao_mais_Bolsonarista
 
-
+nada feito ainda, por enquanto só esboço.....
 
 A ideia é estar estudando os determinantes da atitude política antibolsonarista em uma região de forte votação antibolsonarista
 
